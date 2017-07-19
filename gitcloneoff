@@ -1,0 +1,8 @@
+#! /bin/bash
+
+# Script for registering from the git proxy via http and https
+
+# Defaulting git config to its original state
+git config --global --unset core.gitproxy
+git config --global --unset http.proxy
+git config --global --unset https.proxy

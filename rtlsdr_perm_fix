@@ -1,0 +1,6 @@
+#! /bin/bash
+
+# This script is used to remove the rtl driver used for TV reception.
+
+sudo cp no-rtl.conf /etc/modprobe.d/
+sudo rmmod dvb_usb_rtl28xxu 
