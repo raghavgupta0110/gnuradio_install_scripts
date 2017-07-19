@@ -7,6 +7,7 @@
 2. Install corkscrew and git from the terminal
 
 sudo apt-get install corkscrew
+
 sudo apt-get install git
 
 3. The files in this folder must be pasted to the home directory of your pc.
@@ -21,7 +22,7 @@ ldapusername:ldappassword
 
 6. Run the gnuradio script using the command:
 
-./build-gnuradio
+<center>./build-gnuradio</center>
 
 7. Answer y to all the questions. The installation takes about 2-3hrs. There will be times when the you feel that the installation is not proceeding. Don't worry it is. 'Building gnuradio' takes the most time, you can verify the installation process by checking the size of the gnuradio folder that is downloaded to your home directory. It keeps increasing till it reaches around 2.2Gb. 
 
