@@ -1,6 +1,6 @@
-## gnuradio_install_scripts
+# gnuradio_install_scripts
 
-# Steps to install Gnuradio and its blocks
+## Steps to install Gnuradio and its blocks
 
 1. Login to internet.iitb.ac.in all the time during the installation process
 
