@@ -7,7 +7,6 @@
 2. Install corkscrew and git from the terminal
 
 sudo apt-get install corkscrew
-
 sudo apt-get install git
 
 3. The files in this folder must be pasted to the home directory of your pc.
