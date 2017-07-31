@@ -30,4 +30,4 @@ ldapusername:ldappassword
 ./rtlsdr_perm_fix
 
 
-This script is slightly modified from the original gnuradio build script. It is found to work successfully in Ubuntu 14.04. 
+This script is slightly modified from the original gnuradio build script. It is found to work successfully in Ubuntu 16.04. 
