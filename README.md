@@ -13,7 +13,7 @@ sudo apt-get install git
 
 4. Change the permissions of the following files using the chmod command.
 
-sudo chmod 755 gitcloneon gitcloneoff git-proxy.sh build-gnuradio_ver1.3 rtlsdr_perm_fix
+sudo chmod 755 gitcloneon gitcloneoff git-proxy.sh build-gnuradio_raghav rtlsdr_perm_fix
 
 5. Also write your ldapid and password in the authfile in the following format and save it.
 
